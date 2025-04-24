@@ -632,13 +632,13 @@
   en: Flood
   sp: Flood
   fr: Flood
-  gr: Flood
+  gr: Schalk
   it: Flood
 - id: 0x0521
   en: Scrapper
   sp: Scrapper
   fr: Scrapper
-  gr: Scrapper
+  gr: Schläger
   it: Scrapper
 - id: 0x052D
   en: Ventus
@@ -1101,3 +1101,75 @@
   fr: Ersatz LV
   gr: Ersatz-Form-LV
   it: Ersatz LV
+- id: 0x3339
+  en: Let's you crash the Game!
+  sp: Let's you crash the Game!
+  fr: Let's you crash the Game!
+  gr: Let's you crash the Game!
+  it: Let's you crash the Game!
+- id: 0x3337
+  en: Let's you crash the Game!
+  sp: Let's you crash the Game!
+  fr: Let's you crash the Game!
+  gr: Let's you crash the Game!
+  it: Let's you crash the Game!
+- id: 0x333B
+  en: Let's you crash the Game!
+  sp: Let's you crash the Game!
+  fr: Let's you crash the Game!
+  gr: Let's you crash the Game!
+  it: Let's you crash the Game!
+- id: 0x333D
+  en: Let's you crash the Game!
+  sp: Let's you crash the Game!
+  fr: Let's you crash the Game!
+  gr: Let's you crash the Game!
+  it: Let's you crash the Game!
+- id: 0x32F3
+  en: Doesn't do anything!
+  sp: Doesn't do anything!
+  fr: Doesn't do anything!
+  gr: Doesn't do anything!
+  it: Doesn't do anything!
+- id: 0x32F5
+  en: Doesn't do anything!
+  sp: Doesn't do anything!
+  fr: Doesn't do anything!
+  gr: Doesn't do anything!
+  it: Doesn't do anything!
+- id: 0x32F7
+  en: Doesn't do anything!
+  sp: Doesn't do anything!
+  fr: Doesn't do anything!
+  gr: Doesn't do anything!
+  it: Doesn't do anything!
+- id: 0x32F9
+  en: Doesn't do anything!
+  sp: Doesn't do anything!
+  fr: Doesn't do anything!
+  gr: Doesn't do anything!
+  it: Doesn't do anything!
+- id: 0x3C7D
+  en: Doesn't do anything!
+  sp: Doesn't do anything!
+  fr: Doesn't do anything!
+  gr: Doesn't do anything!
+  it: Doesn't do anything!
+- id: 0x3C81
+  en: Doesn't do anything!
+  sp: Doesn't do anything!
+  fr: Doesn't do anything!
+  gr: Doesn't do anything!
+  it: Doesn't do anything!
+- id: 0x3C96
+  en: Doesn't do anything!
+  sp: Doesn't do anything!
+  fr: Doesn't do anything!
+  gr: Doesn't do anything!
+  it: Doesn't do anything!
+- id: 0x3335
+  en: Use alone only
+  sp: Use alone only
+  fr: Use alone only
+  gr: Use alone only
+  it: Use alone only
