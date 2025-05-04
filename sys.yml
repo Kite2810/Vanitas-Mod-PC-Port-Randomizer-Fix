@@ -2172,11 +2172,11 @@
   en: Ventus´s Journal
   sp: Diario de Ventus
   fr: Carnet Ventus
-  gr: V{:width 95}entus {:width 100}T{:width 95}agebuch
+  gr: V{:width 95}entus' {:width 100}T{:width 95}agebuch
   it: Diario di Ventus
 - id: 0x453A
   en: Read Ventus´s Journal.
   sp: Muestra las notas de Ventus.
   fr: Consulte les notes prises par Ventus.
-  gr: Ventus Tagebuch lesen.
+  gr: Ventus' Tagebuch lesen.
   it: Leggi il diario di Ventus.
