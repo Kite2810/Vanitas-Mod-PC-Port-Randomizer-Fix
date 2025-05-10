@@ -1075,7 +1075,7 @@
   en: Dark Aura
   sp: Dark Aura
   fr: Dark Aura
-  gr: Dunkle Ausstrahlung
+  gr: Dunkle Aura
   it: Dark Aura
 - id: 0x45AD
   en: Remnant LV
@@ -2180,3 +2180,15 @@
   fr: Consulter les notes du carnet de Ventus
   gr: Ventus' Tagebuch lesen.
   it: Leggi il diario di Ventus.
+- id: 0x3BCC
+  en: Auto Ersatz
+  sp: Auto Ersatz
+  fr: Auto Ersatz
+  gr: Auto-Ersatz-Form
+  it: Auto Ersatz
+- id: 0x3BD0
+  en: Auto Remnant
+  sp: Auto Remnant
+  fr: Auto Remnant
+  gr: Auto-Restliche-Form
+  it: Auto Remnant
